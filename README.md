@@ -65,6 +65,21 @@
     api_key = ''  # GPT API密鑰
     ```
 
+2. 如果找不到Arduino端口，可以使用以下步驟：
+    - 安裝Arduino軟體：
+        ```sh
+        sudo apt install arduino
+        ```
+    - 啟動Arduino軟體：
+        ```sh
+        arduino
+        ```
+    - 打開終端機，輸入以下命令查找Arduino端口：
+        ```sh
+        ls /dev/tty*
+        ```
+      你應該會看到一個名為`/dev/ttyACM`或`/dev/ttyUSB`的設備，這就是你的Arduino端口。
+
 ### ASP.NET
 1. 更改API的IP地址：
     ```csharp
