@@ -1,5 +1,4 @@
-```markdown
-# Raspberry-Pi-Intelligent-Vehicle-Control-System(中文)
+# Raspberry-Pi-智慧車輛控制系統
 
 ## 專案描述
 我們的專案旨在開發一個智慧小車系統，主要利用ASP.NET和Python API來實現網頁控制和影像串流服務，取代市面上需下載軟體才能使用的缺點。
