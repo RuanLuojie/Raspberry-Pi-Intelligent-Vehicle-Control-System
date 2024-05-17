@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>Arduino 控制面板</title>
+    <script>
+        function sendCommand(command) {
+            fetch('/api/Command/sendCommand', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ command: command })
+            })
+            // .then(response => response.text())
+            // .then(data => alert("Response: " + data))
+            // .catch(error => console.error('Error:', error));
+        }
+    </script>
+</head>
+<body>
+    <h1>Arduino 控制面板</h1>
+    <button onclick="sendCommand('W')">向前</button>
+    <button onclick="sendCommand('S')">向後</button>
+    <button onclick="sendCommand('A')">向左</button>
+    <button onclick="sendCommand('D')">向右</button>
+    <button onclick="sendCommand('X')">停止</button>
+
+    <!-- <img src='http://192.168.0.111:8080/?action=stream' class="Camera"></img> -->
+
+</body>
+</html>

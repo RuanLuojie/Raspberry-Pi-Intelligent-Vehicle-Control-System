@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RasPi_IVControl/1.0.0": {
+        "runtime": {
+          "RasPi_IVControl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RasPi_IVControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+moodle_path = 'MaskDetect/best.pt'

@@ -1,0 +1,28 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false, 
+    "anonymousAuthentication": true, 
+    "iisExpress": {
+      "applicationUrl": "http://0.0.0.0:48909", 
+      "sslPort": 44346 
+    }
+  },
+  "profiles": {
+    "RasPi_IVControl": {
+      "commandName": "Project", 
+      "dotnetRunMessages": true, 
+      "launchBrowser": true,
+      "applicationUrl": "http://0.0.0.0:7024;http://0.0.0.0:5240", 
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development" 
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress", 
+      "launchBrowser": true, 
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

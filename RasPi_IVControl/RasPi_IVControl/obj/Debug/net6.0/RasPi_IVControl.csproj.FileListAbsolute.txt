@@ -1,0 +1,61 @@
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\appsettings.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.staticwebassets.runtime.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.exe
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.deps.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.runtimeconfig.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.dll
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.pdb
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.AssemblyInfoInputs.cache
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.AssemblyInfo.cs
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.csproj.CoreCompileInputs.cache
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.RazorAssemblyInfo.cache
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.RazorAssemblyInfo.cs
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.RasPi_IVControl.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.build.RasPi_IVControl.props
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RasPi_IVControl.props
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RasPi_IVControl.props
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\bundle\RasPi_IVControl.styles.css
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\projectbundle\RasPi_IVControl.bundle.scp.css
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.dll
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\refint\RasPi_IVControl.dll
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.pdb
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.genruntimeconfig.cache
+C:\Users\hiaco\OneDrive - 中國科技大學\桌面\Program\Raspberry-Pi-Intelligent-Vehicle-Control-System\Server\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\ref\RasPi_IVControl.dll
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\appsettings.Development.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\appsettings.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.staticwebassets.runtime.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.exe
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.deps.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.runtimeconfig.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.dll
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\bin\Debug\net6.0\RasPi_IVControl.pdb
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.AssemblyInfoInputs.cache
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.AssemblyInfo.cs
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.csproj.CoreCompileInputs.cache
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.MvcApplicationPartsAssemblyInfo.cache
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.RazorAssemblyInfo.cache
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.RazorAssemblyInfo.cs
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.sourcelink.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.build.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.development.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.RasPi_IVControl.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.build.RasPi_IVControl.props
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RasPi_IVControl.props
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RasPi_IVControl.props
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\bundle\RasPi_IVControl.styles.css
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\scopedcss\projectbundle\RasPi_IVControl.bundle.scp.css
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.dll
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\refint\RasPi_IVControl.dll
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.pdb
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\RasPi_IVControl.genruntimeconfig.cache
+D:\Git-Report\Raspberry-Pi-Intelligent-Vehicle-Control-System\RasPi_IVControl\RasPi_IVControl\obj\Debug\net6.0\ref\RasPi_IVControl.dll

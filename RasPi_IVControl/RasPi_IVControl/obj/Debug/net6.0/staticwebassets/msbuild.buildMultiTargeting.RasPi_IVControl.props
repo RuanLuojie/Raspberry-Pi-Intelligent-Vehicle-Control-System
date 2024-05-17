@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RasPi_IVControl.props" />
+</Project>

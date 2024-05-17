@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>Arduino 控制面板</title>
+    <!-- 引入 NippleJS 用于创建虚拟操纵杆 -->
+    <script src="https://cdn.jsdelivr.net/npm/nipplejs"></script>
+</head>
+<body>
+    <h1>Arduino 控制面板</h1>
+    <!-- 视频流显示区域 -->
+    <video id="videoFeed" autoplay></video>
+    <!-- 操纵杆容器 -->
+    <div id="joystick-container" style="width: 200px; height: 200px; position: relative;"></div>
+    <img src='http://192.168.0.111:8080/?action=stream' class="Camera"></img>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            setupVideoFeed();
+            setupJoystick();
+        });
+    
+        function setupVideoFeed() {
+            var videoFeed = document.getElementById('videoFeed');
+            videoFeed.src = 'api/command/sandcommand'; // 确保这是正确的视频流地址
+            console.log("Video feed has been set up.");
+        }
+    
+        function setupJoystick() {
+            var joystick = nipplejs.create({
+                zone: document.getElementById('joystick-container'),
+                mode: 'static',  // 静态位置
+                position: { left: '50%', top: '50%' }, // 操纵杆位置
+                color: 'blue'
+            });
+    
+            let commandTimer; // 用于防抖的计时器
+            joystick.on('move', function (evt, data) {
+                if (data.direction) {
+                    clearTimeout(commandTimer);
+                    commandTimer = setTimeout(() => { // 使用 setTimeout 来实现防抖
+                        const commandMap = {
+                            up: 'W',
+                            down: 'S',
+                            left: 'A',
+                            right: 'D'
+                        };
+                        const command = commandMap[data.direction.angle];
+                        if (command) {
+                            moveCar(command);
+                        }
+                    }, 300); // 300毫秒内多次命令只发送一次
+                }
+            });
+    
+            joystick.on('end', function () {
+                moveCar('X'); // 停止
+            });
+        }
+    
+        function moveCar(command) {
+            fetch('api/command/sendCommand', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ command: command }), // 确保键名与后端期望的一致
+            })
+            .then(response => {
+                if (response.ok) {
+                    console.log("Command sent: " + command);
+                } else {
+                    console.error('Move Failure:', response.statusText);
+                }
+            })
+            .catch((error) => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+    
+</body>
+</html>
