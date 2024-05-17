@@ -1,3 +1,4 @@
+```markdown
 # Raspberry-Pi-Intelligent-Vehicle-Control-System(中文)
 
 ## 專案描述
@@ -69,32 +70,38 @@
 1. 更改API的IP地址：
     ```csharp
     // CarcontrolController.cs
-    var raspberryPiUrl = "http://192.168.0.111:7024/arduino_command";
+    var raspberryPiUrl = "http://<你的RaspberryPi的IP>:7024/arduino_command";
     ```
 
 2. 更改接收API的IP地址：
     ```html
     <!-- Camera.html -->
-    http://192.168.0.111:8080/?action=stream
+    http://<你的RaspberryPi的IP>:8080/?action=stream
     ```
 
 3. 更改IP地址：
     ```javascript
     // Camera.js 和 home.js
-    http://192.168.0.111:8080/?action=stream
-    http://192.168.0.13:5000/video_feed
+    http://<你的RaspberryPi的IP>:8080/?action=stream
+    http://<你的RaspberryPi的IP>:5000/video_feed
     ```
 
 ### MaskDetect
 1. 修改`main copy.py`：
     ```python
-    cap = cv2.VideoCapture('http://192.168.0.111:8080/?action=stream')
+    cap = cv2.VideoCapture('http://<你的RaspberryPi的IP>:8080/?action=stream')
     ```
-2. 啟動口罩辨識：
+
+2. 更改API的IP地址：
+    ```python
+    url = 'http://<你的電腦的IP>:7024/api/detection'
+    ```
+
+3. 啟動口罩辨識：
     ```sh
     python main copy.py
     ```
 
 ---
 
-以上是你的README.md文件，請根據實際需求進行調整和補充。如果有任何問題或需要進一步修改，請告訴我。
+以上是更新後的README.md文件。請將所有`<你的RaspberryPi的IP>`和`<你的電腦的IP>`替換為你實際使用的Raspberry Pi和電腦的IP地址。如果有任何問題或需要進一步修改，請告訴我。
