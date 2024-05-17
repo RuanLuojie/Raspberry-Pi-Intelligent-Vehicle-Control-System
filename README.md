@@ -124,6 +124,3 @@
     ```sh
     python main copy.py
     ```
-
----
-
