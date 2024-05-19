@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 import asyncio
 from gtts import gTTS
 import os
@@ -11,10 +14,8 @@ import serial
 from aiohttp import web
 import psutil
 
-
 current_directory = os.path.dirname(__file__)
 chat_file_path = os.path.join(current_directory, history_path)
-
 
 class RaspberryPi:
     def __init__(self, chat_file_path, api_key):
@@ -22,7 +23,6 @@ class RaspberryPi:
         self.chatAssistant = ChatAssistant(chat_file_path, api_key)
         self.ser = serial.Serial(ARDUINO_PORT, 9600, timeout=1)
         print("Serial port opened")
-
 
     def get_cpu_temperature(self):
         try:
@@ -38,10 +38,12 @@ class RaspberryPi:
         while True:
             try:
                 voice_text = await self.voiceAssistant.voiceInput()
-                if voice_text =="智航":
-                    response_text = await self.chatAssistant.interact(voice_text)
-                    print(response_text)
-                    await self.play_audio(response_text)
+                if voice_text:
+                    print(f"Detected voice input: {voice_text}")
+                    if "志航" in voice_text:
+                        response_text = await self.chatAssistant.interact(voice_text)
+                        print(response_text)
+                        await self.play_audio(response_text)
             except Exception as e:
                 print(f"Error in speech function: {e}")
 
